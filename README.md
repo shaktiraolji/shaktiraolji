@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @shaktiraolji
 - 👀 I’m interested in learn new things (coading)
-- 🌱 I’m currently learning HTML,CSS,JavaScript.
+- 🌱 I’m currently learning C Language.
+
 
 <!---
 shaktiraolji/shaktiraolji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
