@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shaktiraolji
-- 👀 I’m interested in learn new things (coading)
+- 👀 I’m interested in learn new things.
 - 🌱 I’m currently learning C Language.
 
 
